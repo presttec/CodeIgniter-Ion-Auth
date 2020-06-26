@@ -14,9 +14,6 @@
     "conflict": {
         "benedmunds/codeigniter-ion-auth": "*"
     },
-    "replace": {
-        "benedmunds/codeigniter-ion-auth": "*"
-    },
     "require": {
         "php": ">=5.6"
     },
