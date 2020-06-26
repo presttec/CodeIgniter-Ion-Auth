@@ -4,9 +4,11 @@
     "type": "library",
     "license": "MIT",
     "homepage": "http://presttec.com.br/ion_auth",
+    "minimum-stability": "dev",
     "authors": [
         {
-            "name": "PrestTEC"
+            "name": "PrestTEC",
+            "email": "contato@presttec.com.br"
         }
     ],
     "require": {
