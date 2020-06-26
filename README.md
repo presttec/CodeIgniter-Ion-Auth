@@ -41,7 +41,7 @@ If you think you've found a bug please [Create an Issue](https://github.com/pres
 
 If you need a customization or help implementing Ion Auth into your project please [Email Me for Consulting Information](mailto:ionauth_consulting@presttec.com.br).
 
-If your company would like a support contract or service agreement please [Reach Out](mailto:ionauth_support_contract@presttec.com.br) to discuss available options.
+If your company would like a support contract or service agreement please [Reach Out](mailto:contato@presttec.com.br) to discuss available options.
 
 
 ## For Help
