@@ -39,7 +39,7 @@ It is highly recommended that you use encrypted database sessions for security!
 ## Support
 If you think you've found a bug please [Create an Issue](https://github.com/presttec/CodeIgniter-Ion-Auth/issues).
 
-If you need a customization or help implementing Ion Auth into your project please [Email Me for Consulting Information](mailto:ionauth_consulting@presttec.com.br).
+If you need a customization or help implementing Ion Auth into your project please [Email Me for Consulting Information](mailto:contato@presttec.com.br).
 
 If your company would like a support contract or service agreement please [Reach Out](mailto:contato@presttec.com.br) to discuss available options.
 
