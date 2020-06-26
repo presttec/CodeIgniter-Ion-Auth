@@ -11,6 +11,9 @@
             "email": "contato@presttec.com.br"
         }
     ],
+    "conflict": {
+        "benedmunds/codeigniter-ion-auth": "dev-master"
+    },
     "require": {
         "php": ">=5.6"
     },
@@ -34,5 +37,6 @@
         "post-update-cmd": [
             "@install-ion-auth"
         ]
-    }
+    },
+    "prefer-stable": true
 }
