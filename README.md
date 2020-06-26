@@ -4,9 +4,6 @@ by [PrestTEC](http://presttec.com.br)
 
 Simple and lightweight authentication for your CodeIgniter apps.
 
-Ion Auth 2 dropped any backwards compatibility and made things more
-awesome.
-
 Ion Auth 3, while not dropping as much backwards compatibility, made things
 even more awesome!
 
